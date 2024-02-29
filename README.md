@@ -1,7 +1,7 @@
 <p align="center">
-THE GREAT MINDS ACADEMY
+# THE GREAT MINDS ACADEMY
 </p>
-# Table of Contents (Arewa DS)
+# Table of Contents
 
 
 - [Table of Contents ](#table-of-contents)
