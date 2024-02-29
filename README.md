@@ -1,6 +1,8 @@
-<p align="center">
+<p align="center"> 
+
 # THE GREAT MINDS ACADEMY
 </p>
+
 # Table of Contents
 
 
